@@ -90,11 +90,4 @@ export const projects = [
     showDemo: false,
     demoLink: "#",
   },
-  {
-    name: "Airport Reservation System",
-    desc: "An airline reservation system is a computerized platform for airlines to manage flight schedules, availability, and bookings by travel agents, airlines, and passengers",
-    ghLink: "https://github.com/MitSheth7/Airport-Reservation-System",
-    showDemo: false,
-    demoLink: "#",
-  },
 ];
