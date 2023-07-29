@@ -37,7 +37,7 @@ export const projects = [
   {
     name: "Pokemon App",
     desc: "This interactive and dynamic ReactJS-based web application allows you to search for any Pokémon and retrieve detailed information about it using the Pokémon API.",
-    ghLink: "https://github.com/MitSheth7/pokemon-app-main",
+    ghLink: "https://github.com/MitSheth7/pokemon-app-main ",
     showDemo: false,
     demoLink: "#",
   },
