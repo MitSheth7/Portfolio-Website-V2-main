@@ -5,7 +5,6 @@ export const typewriterText = [
   "Athletic",
   "Tech Enthusiast",
   "Gym Nerd",
-  "Nature Lover",
 ];
 
 export const experiences = [
