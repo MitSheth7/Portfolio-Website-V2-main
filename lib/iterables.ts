@@ -96,4 +96,18 @@ export const projects = [
     showDemo: false,
     demoLink: "#",
   },
+  {
+    name: "Hand Tracking",
+    desc: "I created a Python and TensorFlow-based system for hand tracking with a smooth frame rate of up to 30 FPS, and integrated a Python class for hand tracking into over three applications for gesture recognition.",
+    ghLink: "https://github.com/MitSheth7/HandTracking",
+    showDemo: false,
+    demoLink: "#",
+  },
+  {
+    name: "MacOS Motion Controller",
+    desc: "Created a real-time fitness monitor using Python, OpenCV, and NumPy to control music, adjust volume, and activate apps based on body pose angles, integrating computer vision and AppleScript automation for an interactive fitness app.",
+    ghLink: "https://github.com/MitSheth7/GestureController",
+    showDemo: false,
+    demoLink: "#",
+  },
 ];
