@@ -52,7 +52,7 @@ const Welcome = () => {
       </h1> */}
         <p className="text-dark-600 dark:text-dark-300 mb-4">
         I am Mit Sheth, an impassioned developer and scholar
-        with expertise in full stack development and data science. 
+        with expertise in Machine Learning and Artifical Intelligence. 
         My insatiable curiosity drives me to explore emerging technologies
         and tools, while my keen interest in the intersection of business 
         and technology fuels my passion!
