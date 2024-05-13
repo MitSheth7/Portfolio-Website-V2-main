@@ -9,25 +9,25 @@ export const typewriterText = [
 
 export const experiences = [
   {
-    date: "August 2020 - January 2021",
+    date: "Jan 2024 - April 2024",
+    logo: "https://lh3.googleusercontent.com/nwPX_TRjWP0dGN006DKSEbJn4lQjPU9B1BOLd-OcxF35o0UtbPrSCn5l8Dg8KQfok2SzRLR_ffpRLx2rUAiWTfqbnA=w128-h128-e365-rj-sc0x00ffffff",
+    company: "Knorket.ai",
+    role: "Software Engineer Intern",
+    desc: "• Assigned to a key project, requiring the swift development of tools for an application accessed by AI Assistants • Developed specialized tools for AI Assistants, significantly improving efficiency by 20% across diverse tasks • Used Python and JSON to efficiently develop data processing methods, fetch API data, and manage output • Innovative tools were promptly implemented and significantly enhanced the application’s core functionality part",
+  },
+  {
+    date: "May 2023 - August 2023",
     logo: "/assets/img/logos/websplash.jpeg",
     company: "WebSplash",
     role: "Software Engineer Intern",
-    desc: "• Spearheaded the development of a real-time chat application using Node.js and React, enhancing the company’s product portfolio and expanding the user base by 15% • Implemented a major refactoring of the JavaScript front-end code, leading to a 30% improvement in loadingspeeds across the company’s application suite, enhancing user experience significantly • Applied knowledge of Java to develop a multi-threaded server-side application, which improved the efficiency ofdata processing tasks by 70%, resulting in faster system performance and increased productivity • Implemented a robust, secure authentication system using Java, Node.js, and advanced encryption algorithms, significantly enhancing the security of the company’s web applications and reducing security incidents by 80%",
+    desc: "• Developed automated testing suite in JavaScript, enabling QA to run tests and reducing testing time by 1 hour • Refactored JavaScript code, improving the loading speeds by 15% and significantly enhancing user experience • Used Java to quickly build multi-threaded server, improving data processing by 10% and boosting productivity • Implemented a authentication system and advanced encryption algorithms, reducing security incidents by 30%",
   },
   {
-    date: "March 2022 - August 2022",
+    date: "Sept 2022 - Dec 2022",
     logo: "/assets/img/logos/Sidwin Systems.jpg",
     company: "Sidwin Systems",
-    role: "Machine Learning Intern",
-    desc: "• Successfully developed and deployed a machine learning model using Python and TensorFlow, improving the product recommendation system accuracy system by 25% in accuracy • Utilized SQL to analyze and process large data sets. This optimization of the data retrieval process leading to a 50% reduction in the time required to access the data, thereby enhancing our operational efficiency • Applied OpenCV and Generative AI for image processing tasks in the company’s facial recognition project, achieving a consistent average processing time of just 1.5 seconds per image • Designing a deep learning model was designed using Pytorch, enhancing the company’s speech recognition system to achieve a 40% accuracy rate, with efficient parallel processing enabled by leveraging CUDA",
-  },
-  {
-    date: "2020 - Present",
-    logo: "/assets/img/logos/freelance.png",
-    company: "Freelance Web Developer / Open Source Contributor",
-    role: "",
-    desc: "Developed over 5 websites for small companies and businesses.• Utilized technologies such as Javascript, HTML and CSS to create unique layouts, add animations and style various elements.• Secured domains with HTTPS on the backend and added SSL certificates to all sites.",
+    role: "Software Developer Intern",
+    desc: "• Utilized SQL queries for proactive database performance monitoring and optimization, identifying bottlenecks • Used Python to efficiently develop scalable software, improving code efficiency by 20% and reducing bugs by 30%",
   },
   
 ];
