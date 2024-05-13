@@ -24,7 +24,7 @@ const links = [
   },
   {
     name: "Resume",
-    link: "https://drive.google.com/file/d/1ooAXtyxdl93ompaZjFe37nAsjOBlAHyf/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1XDTH-K-T-QXdj86k8J6aYMfdejUXOrs8/view?usp=sharing",
     icon: <AiOutlineFileText />,
   },
 ];
