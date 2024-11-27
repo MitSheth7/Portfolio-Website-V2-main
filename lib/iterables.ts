@@ -10,14 +10,12 @@ export const typewriterText = [
 export const experiences = [
   {
     date: "Sept 2024 - Dec 2024",
-    logo: "",
     company: "Royal Bank of Canada",
     role: "Software Engineer Intern",
     desc: " • Developing innovative web apps with JavaScript and React, effectively adhering to accessibility guidelines • Creating engaging training materials and informative newsletters, boosting accessibility awareness metrics • Created a JavaScript testing suite, reducing testing time by 1 hour across 5 test suites, saving 5 hours per run • Assisting in projects that enhance accessibility for the employee portal serving 1,000,000+ clients and employees",
   },
   {
     date: "May 2024 - Aug 2024",
-    logo: "",
     company: "Carleton URocketry",
     role: "Software Engineer Intern",
     desc: "  • Designed a communication protocol in C and C++ for Arduino Mega 2560s over Cat6, enabling data transfer alongside control signals in a test stand setup • Developed a Python Tkinter app to control the UI, display real-time data, and log from the BlastShield Arduino • Enabled user control of solenoid valves with integrated real-time data analysis and logging for enhanced interaction • Implemented seamless data collection and relay between the TestStand and BlastShield Arduinos using C++ for accurate test data monitoring",
