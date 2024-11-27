@@ -11,7 +11,7 @@ const Timeline = () => {
       <ol className="relative border-l border-gray-200 dark:border-gray-700">
         {experiences.map((item, i) => (
           <li
-            className="mb-5 ml-4 p-3 rounded-lg border-2 border-slate-400/10 bg-neutral-50/70 border border-neutral-200 dark:border-neutral-700 dark:bg-neutral-800/70 rounded-lg shadow"
+            className="mb-5 ml-4 p-3 rounded-lg border-2 border-slate-400/10 bg-neutral-50/70 border border-neutral-200 dark:border-neutral-700 dark:bg-neutral-800/70 shadow"
             key={`item-${i}`}
             data-aos="fade-up"
           >
@@ -24,13 +24,16 @@ const Timeline = () => {
                   </time>
                   <Disclosure.Button className="w-full mt-1 items-start flex flex-col md:flex-row md:items-center justify-between gap-2">
                     <span className="flex flex-row justify-between items-center gap-2">
-                      <Image
-                        alt={`${item.company} logo`}
-                        width={35}
-                        height={35}
-                        className="rounded"
-                        src={item.logo}
-                      />
+                      {/* Only render Image if logo exists */}
+                      {item.logo && (
+                        <Image
+                          alt={`${item.company} logo`}
+                          width={35}
+                          height={35}
+                          className="rounded"
+                          src={item.logo}
+                        />
+                      )}
                       <p className="text-lg font-semibold text-gray-900 dark:text-white">
                         {item.company}
                       </p>
