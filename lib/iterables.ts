@@ -8,12 +8,25 @@ export const typewriterText = [
 ];
 
 export const experiences = [
+   {
+    date: "Sept 2024 - Dec 2024",
+    logo: "https://www.bing.com/ck/a?!&&p=4e5575084b13e61712849bf602d521f030f59eaa92cdb36dc9da9177c91dff4cJmltdHM9MTczMjU3OTIwMA&ptn=3&ver=2&hsh=4&fclid=148bde2c-7515-69cc-0e81-cdda747a68ca&u=a1L2ltYWdlcy9zZWFyY2g_cT1SQkMlMjBsb2dvJkZPUk09SVFGUkJBJmlkPTU0RDZFNzQ5NTU4MUIxM0Q3MEVFQkFEOTVBNjcwREUwMjNGQjJBMTI&ntb=1",
+    company: "Royal Bank of Canada",
+    role: "Software Engineer Intern",
+    desc: " • Developing innovative web apps with JavaScript and React, effectively adhering to accessibility guidelines • Creating engaging training materials and informative newsletters, boosting accessibility awareness metrics • Created a JavaScript testing suite, reducing testing time by 1 hour across 5 test suites, saving 5 hours per run • Assisting in projects that enhance accessibility for the employee portal serving 1,000,000+ clients and employees",
+  },
+  {
+    date: "May 2024 - Aug 2024",
+    company: "Carleton URocketry",
+    role: "Software Engineer Intern",
+    desc: "  • Designed a communication protocol in C and C++ for Arduino Mega 2560s over Cat6, enabling data transfer alongside control signals in a test stand setup • Developed a Python Tkinter app to control the UI, display real-time data, and log from the BlastShield Arduino • Enabled user control of solenoid valves with integrated real-time data analysis and logging for enhanced interaction • Implemented seamless data collection and relay between the TestStand and BlastShield Arduinos using C++ for accurate test data monitorin",
+  },
   {
     date: "Jan 2024 - April 2024",
     logo: "https://lh3.googleusercontent.com/nwPX_TRjWP0dGN006DKSEbJn4lQjPU9B1BOLd-OcxF35o0UtbPrSCn5l8Dg8KQfok2SzRLR_ffpRLx2rUAiWTfqbnA=w128-h128-e365-rj-sc0x00ffffff",
     company: "Knorket.ai",
     role: "Software Engineer Intern",
-    desc: "• Assigned to a key project, requiring the swift development of tools for an application accessed by AI Assistants • Developed specialized tools for AI Assistants, significantly improving efficiency by 20% across diverse tasks • Used Python and JSON to efficiently develop data processing methods, fetch API data, and manage output • Innovative tools were promptly implemented and significantly enhanced the application’s core functionality part",
+    desc: " • Developed tools and features for bots within the platform, enhancing capabilities and integrating GPT functions • Implemented Python logic to process tasks based on model inputs, ensuring efficient request handling and seamless interaction with language models • Managed output generation, improving overall user experience and significantly boosting engagement by 15%",
   },
   {
     date: "May 2023 - August 2023",
@@ -27,9 +40,8 @@ export const experiences = [
     logo: "/assets/img/logos/Sidwin Systems.jpg",
     company: "Sidwin Systems",
     role: "Software Developer Intern",
-    desc: "• Utilized SQL queries for proactive database performance monitoring and optimization, identifying bottlenecks • Used Python to efficiently develop scalable software, improving code efficiency by 20% and reducing bugs by 30%",
+    desc: " • Implemented and optimized front-end form input components using Vue.js, JavaScript, jQuery, and HTML/CSS to improve interaction and streamline entry, enhancing responsiveness of the web application • Developed back-end features and APIs in Java using Spring and MySQL to enhance performance and integrity • Conducted QA, including test cases, end-to-end testing, and bottleneck identification, improving code stability",
   },
-  
 ];
 
 export const projects = [
