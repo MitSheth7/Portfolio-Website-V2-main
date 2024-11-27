@@ -8,7 +8,7 @@ export const typewriterText = [
 ];
 
 export const experiences = [
-   {
+  {
     date: "Sept 2024 - Dec 2024",
     logo: "",
     company: "Royal Bank of Canada",
@@ -17,10 +17,10 @@ export const experiences = [
   },
   {
     date: "May 2024 - Aug 2024",
-    logo: ""
+    logo: "",
     company: "Carleton URocketry",
     role: "Software Engineer Intern",
-    desc: "  • Designed a communication protocol in C and C++ for Arduino Mega 2560s over Cat6, enabling data transfer alongside control signals in a test stand setup • Developed a Python Tkinter app to control the UI, display real-time data, and log from the BlastShield Arduino • Enabled user control of solenoid valves with integrated real-time data analysis and logging for enhanced interaction • Implemented seamless data collection and relay between the TestStand and BlastShield Arduinos using C++ for accurate test data monitorin",
+    desc: "  • Designed a communication protocol in C and C++ for Arduino Mega 2560s over Cat6, enabling data transfer alongside control signals in a test stand setup • Developed a Python Tkinter app to control the UI, display real-time data, and log from the BlastShield Arduino • Enabled user control of solenoid valves with integrated real-time data analysis and logging for enhanced interaction • Implemented seamless data collection and relay between the TestStand and BlastShield Arduinos using C++ for accurate test data monitoring",
   },
   {
     date: "Jan 2024 - April 2024",
@@ -34,7 +34,7 @@ export const experiences = [
     logo: "/assets/img/logos/websplash.jpeg",
     company: "WebSplash",
     role: "Software Engineer Intern",
-    desc: "• Developed automated testing suite in JavaScript, enabling QA to run tests and reducing testing time by 1 hour • Refactored JavaScript code, improving the loading speeds by 15% and significantly enhancing user experience • Used Java to quickly build multi-threaded server, improving data processing by 10% and boosting productivity • Implemented a authentication system and advanced encryption algorithms, reducing security incidents by 30%",
+    desc: "• Developed automated testing suite in JavaScript, enabling QA to run tests and reducing testing time by 1 hour • Refactored JavaScript code, improving the loading speeds by 15% and significantly enhancing user experience • Used Java to quickly build multi-threaded server, improving data processing by 10% and boosting productivity • Implemented an authentication system and advanced encryption algorithms, reducing security incidents by 30%",
   },
   {
     date: "Sept 2022 - Dec 2022",
@@ -77,7 +77,7 @@ export const projects = [
   {
     name: "PathFinder A* Visualizer",
     desc: "Visualizer for the A* algorithm for path-finding between two points!",
-    ghLink:"https://github.com/MitSheth7/A-Visualizer-",
+    ghLink: "https://github.com/MitSheth7/A-Visualizer-",
     showDemo: false,
     demoLink: "#",
   },
