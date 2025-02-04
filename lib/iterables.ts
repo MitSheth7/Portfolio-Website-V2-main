@@ -29,7 +29,7 @@ export const experiences = [
   },
   {
     date: "May 2023 - August 2023",
-    logo: "/assets/img/logos/websplash.jpeg",
+    logo: "",
     company: "WebSplash",
     role: "Software Engineer Intern",
     desc: "•  front-end form input components using Vue.js, JavaScript, jQuery, and HTML/CSS to improve interaction and streamline entry, enhancing responsiveness of the web application • Developed back-end features and APIs in Java using Spring and MySQL to enhance performance and integrity • Conducted QA, including test cases, end-to-end testing, and bottleneck identification, improving code stability",
